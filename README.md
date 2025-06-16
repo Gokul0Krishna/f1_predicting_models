@@ -1,2 +1,2 @@
 # f1_predicting_website
-a full scale personal project
+predict the end result of a race based on historical data
